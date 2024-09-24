@@ -1,4 +1,4 @@
-# Streamlit-Work-app
+# Streamlit-Work-app 💻 
 📊🔮 Churn Prediction App 💻🎉
 
 Welcome to the Churn Prediction App project! 🚀 This project is designed to predict customer churn using machine learning based on demographic and behavioral data from the Expresso
