@@ -110,6 +110,12 @@ Here’s what I plan to add in future versions of the app:
 
 🔍 Feature importance analysis to better understand the data.
 
+Prediction Results : 
+
+No Churn: 🚫
+
+Yes, Churn: ⚠️
+
 🎉 Conclusion :
 
 This app helps companies like Expresso understand whether their customers are likely to churn. By entering customer details, businesses can make data-driven decisions 🧠 based on real-
