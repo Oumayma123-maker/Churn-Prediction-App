@@ -120,6 +120,6 @@ time predictions. 📈
 
 Feel free to reach out if you have any questions or suggestions:
 
-GitHub: Your GitHub Profile 🖥️
+GitHub: https://github.com/Oumayma123-maker 🖥️
 
 Email: oueslatioumayma157@gmail.com 📩
